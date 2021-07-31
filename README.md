@@ -2,6 +2,10 @@
 My note:
 Well I desperately needed this program so I coded myself. basically input first and second links and the program will automatically generates valid links based on that pattern. 
 
+Requirements:
+-Python3
+-Python Requests
+
 How it works:
 
 The program is used for those of links that have a certain pattern, for example : 
