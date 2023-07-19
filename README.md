@@ -1,6 +1,6 @@
 # LinksGen
 My note:
-Well I desperately needed this program so I coded myself. basically input first and second links and the program will automatically generates valid links based on that pattern. 
+Well I desperately needed this program so I coded myself. basically input first and second links and the program will automatically generate valid links based on that pattern. 
 
 Requirements:
 -Python3
